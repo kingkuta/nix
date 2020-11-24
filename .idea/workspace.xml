@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9e189f7-cdb4-46be-bd3c-0a941c845de3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="webserver" />
+  <component name="ProjectId" id="1kU9sDOpLNteYzE7aK9Ls6r9gqk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/nginx" />
+      <recent name="$PROJECT_DIR$/code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.php: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="php" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.webserver: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="webserver" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml.webserver: Compose Deployment" />
+      <item itemvalue="Docker.docker-compose.yml.php: Compose Deployment" />
+      <item itemvalue="Docker.Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.docker-compose.yml.php: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.webserver: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9e189f7-cdb4-46be-bd3c-0a941c845de3" name="Default Changelist" comment="" />
+      <created>1605744509829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605744509829</updated>
+      <workItem from="1605744511974" duration="2044000" />
+      <workItem from="1605746820668" duration="910000" />
+      <workItem from="1605747881740" duration="43000" />
+      <workItem from="1605747928157" duration="50000" />
+      <workItem from="1605791269399" duration="4109000" />
+      <workItem from="1605812635182" duration="2433000" />
+      <workItem from="1606174577008" duration="3940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="84" key="#CLI_Interpreters" timestamp="1606178854077">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="172" y="84" key="#CLI_Interpreters/0.23.1280.777@0.23.1280.777" timestamp="1606178854077" />
+    <state x="415" y="156" width="597" height="545" key="#Docker" timestamp="1605744811761">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="415" y="156" width="597" height="545" key="#Docker/0.23.1280.777@0.23.1280.777" timestamp="1605744811761" />
+    <state x="308" y="61" key="#PHP" timestamp="1605747268308">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="308" y="61" key="#PHP/0.23.1280.777@0.23.1280.777" timestamp="1605747268308" />
+    <state x="104" y="73" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605746467507">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="73" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1605746467507" />
+    <state x="375" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606177782891">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="375" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.777@0.23.1280.777" timestamp="1606177782891" />
+    <state x="459" y="342" key="NewPhpFileDialog" timestamp="1606177849375">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="459" y="342" key="NewPhpFileDialog/0.23.1280.777@0.23.1280.777" timestamp="1606177849375" />
+    <state x="689" y="457" key="NewPhpFileDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1605814287984" />
+    <state x="141" y="50" key="SettingsEditor" timestamp="1606178862308">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1606178862308" />
+    <state x="212" y="60" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1605814825952" />
+    <state x="425" y="292" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1605745403022">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="425" y="292" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.23.1280.777@0.23.1280.777" timestamp="1605745403022" />
+    <state x="458" y="160" width="1005" height="920" key="search.everywhere.popup" timestamp="1605813621681">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1605794867308" />
+    <state x="458" y="160" width="1005" height="920" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1605813621681" />
+  </component>
+</project>
